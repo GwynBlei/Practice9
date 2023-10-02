@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice9</string>
+    <string name="Copyright_C_2021">Copyright (C) 2021</string>
+    <string name="textView4">""" Листопад И.А.Бунин
+    Лес, точно терем расписной,
+    Лиловый, золотой, багряный,
+    Веселой, пестрою стеной
+    Стоит над светлою. """</string>
+
+  </resources>
